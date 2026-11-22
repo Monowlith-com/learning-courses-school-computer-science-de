@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" width="960" height="480" role="img" aria-labelledby="title description" xml:lang="de">
+<title id="title">Mitglied, Ausleihe und Buchexemplar</title>
+<desc id="description">Ein Mitglied und ein Buchexemplar haben jeweils null bis viele Ausleihen. Jede Ausleihe ist genau einem Mitglied und einem Exemplar zugeordnet.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">Mitglied, Ausleihe und Buchexemplar</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<path d="M278.1773399014778 188.0 Q359.5 256.5 440.8226600985222 325.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="314.0" y="230.5" width="91" height="22" rx="4" fill="#fff"/>
+<text x="359.5" y="246.5" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">1 zu 0..n</text>
+<path d="M680.1477832512315 188.0 Q599.5 256.5 518.8522167487685 325.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="554.0" y="230.5" width="91" height="22" rx="4" fill="#fff"/>
+<text x="599.5" y="246.5" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">1 zu 0..n</text>
+<rect x="138.0" y="122.0" width="202" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="239" y="150.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Mitglied</text>
+<text x="239" y="174.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Mitglieds-ID</text>
+<rect x="618.0" y="122.0" width="202" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="719" y="150.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Buchexemplar</text>
+<text x="719" y="174.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Buch-ID</text>
+<rect x="370.0" y="325.0" width="220" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="480" y="353.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Ausleihe</text>
+<text x="480" y="377.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Ausleih-ID</text>
+</g>
+</svg>

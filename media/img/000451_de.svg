@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" width="960" height="480" role="img" aria-labelledby="title description" xml:lang="de">
+<title id="title">Bis zum Zielfeld</title>
+<desc id="description">Nach gültigem Start führt Position kleiner drei zum nächsten Feld und zurück zur Prüfung. Andernfalls folgt die Ausgabe.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="8" markerHeight="7" refX="7.4" refY="3.5"><path d="M0 0 L8 3.5 L0 7 Z" fill="#476174"/></marker></defs>
+<rect width="960" height="480" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="38" y="57" font-size="31" text-anchor="start" font-weight="700" fill="#17293a">Bis zum Zielfeld</text>
+<path d="M38 77 H922" stroke="#bac5cf" stroke-width="1.4"/>
+<path d="M224.0 180.0 Q305.0 180.0 386.0 180.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<path d="M554.0 180.0 Q629.0 180.0 704.0 180.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="606.0" y="154.0" width="46" height="22" rx="4" fill="#fff"/>
+<text x="629.0" y="170.0" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">nein</text>
+<path d="M470.0 213.0 Q356.0 267.5 470.0 322.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="387.0" y="241.5" width="28" height="22" rx="4" fill="#fff"/>
+<text x="401.0" y="257.5" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">ja</text>
+<path d="M470.0 322.0 Q584.0 267.5 470.0 213.0" fill="none" stroke="#476174" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="491.5" y="241.5" width="127" height="22" rx="4" fill="#fff"/>
+<text x="555.0" y="257.5" font-size="17" text-anchor="middle" font-weight="400" fill="#17293a">erneut prüfen</text>
+<rect x="56.0" y="147.0" width="168" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="140" y="175.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Start</text>
+<text x="140" y="199.0" font-size="15" text-anchor="middle" font-weight="400" fill="#17293a">Gültige Position</text>
+<rect x="386.0" y="147.0" width="168" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="470" y="187.0" font-size="18" text-anchor="middle" font-weight="650" fill="#17293a">Position &lt; 3?</text>
+<rect x="704.0" y="147.0" width="168" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="788" y="175.0" font-size="22" text-anchor="middle" font-weight="650" fill="#17293a">Ausgabe</text>
+<text x="788" y="199.0" font-size="18" text-anchor="middle" font-weight="400" fill="#17293a">Position</text>
+<rect x="386.0" y="322.0" width="168" height="66" rx="10" fill="#f2f7fb" stroke="#476174" stroke-width="2"/>
+<text x="470" y="362.0" font-size="20" text-anchor="middle" font-weight="650" fill="#17293a">Position + 1</text>
+</g>
+</svg>
