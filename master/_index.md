@@ -2,9 +2,9 @@
 document_id: "school_computer_science_de:_index"
 series_id: "school_computer_science_de:_index"
 series_part: 1
-document_version: "1.0.0"
+document_version: "1.0.1"
 created: "2026-11-22"
-updated: "2026-11-22"
+updated: "2026-11-24"
 title: "Kursübersicht – Schule · Informatik bis zum Abitur"
 author: "Stephan Kühn"
 document_type: "Kursübersicht"
@@ -29,7 +29,7 @@ Dieser Selbstlernkurs beginnt bei alltäglichen Informatiksystemen und führt vo
 
 ## Module und Lektionen {#S2}
 
-Der Kurs umfasst 45 Lektionen in 10 aufeinander aufbauenden Modulen.
+Der Kurs umfasst 50 Lektionen in 12 aufeinander aufbauenden Modulen.
 
 ### [M1 – Orientierung und Informatiksysteme](M1-L1.md)
 
@@ -105,6 +105,21 @@ Der Kurs umfasst 45 Lektionen in 10 aufeinander aufbauenden Modulen.
 - [Klausurtraining: einen unbekannten Algorithmus analysieren](M10-L2.md)
 - [Klausurtraining: Transfer und begründetes Urteil](M10-L3.md)
 - [Projektbericht und mündliche Prüfung](M10-L4.md)
+
+### [M11 – Verkettete Strukturen und Graphensuche](M11-L1.md)
+
+3 Lektionen.
+
+- [M11-L1 – Einfach verkettete Listen](M11-L1.md)
+- [M11-L2 – Geordnete Binärbäume und Traversierung](M11-L2.md)
+- [M11-L3 – Tiefensuche und erreichbare Knoten](M11-L3.md)
+
+### [M12 – Rechnerarithmetik und Registermaschinen](M12-L1.md)
+
+2 Lektionen.
+
+- [M12-L1 – Binäre Addition, Zweierkomplement und Überlauf](M12-L1.md)
+- [M12-L2 – Registermaschine und Befehlszyklus](M12-L2.md)
 
 ## Lernwege und Quellen {#S3}
 

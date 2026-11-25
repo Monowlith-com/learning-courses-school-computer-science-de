@@ -1,10 +1,10 @@
 ---
 document_id: "school_computer_science_de:studienweg"
 series_id: "school_computer_science_de:_index"
-series_part: 47
-document_version: "1.0.0"
+series_part: 52
+document_version: "1.0.1"
 created: "2026-11-22"
-updated: "2026-11-22"
+updated: "2026-11-24"
 title: "Studienweg und Abiturvorbereitung"
 author: "Stephan Kühn"
 document_type: "Studienweg"
@@ -48,3 +48,19 @@ Bearbeite zunächst ein Worked Example, decke danach die Lösungen ab und löse 
 - [Ministerium für Bildung Rheinland-Pfalz, Mainzer Studienstufe – Mainzer Studienstufe – Gliederung](https://mss.rlp.de/organisation/gliederung/seite) · Bezug zur Lektion: Wie ist die MAINZER STUDIENSTUFE strukturiert? – Für G9 gilt; Für G8GTS gilt · Zuletzt abgerufen: 2026-11-22 · Inhaltlich geprüft: 2026-11-22
 - [Bayern – Staatsinstitut für Schulqualität und Bildungsforschung (ISB) – LehrplanPLUS Gymnasium – Fachprofil Informatik](https://www.lehrplanplus.bayern.de/fachprofil/gymnasium/informatik) · Bezug zur Lektion: Abschnitte 2 und 3, insbesondere Jahrgangsaufbau · Zuletzt abgerufen: 2026-11-22 · Inhaltlich geprüft: 2026-11-22
 - [Kultusministerkonferenz (KMK) – Einheitliche Prüfungsanforderungen in der Abiturprüfung Informatik (EPA)](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/1989/1989_12_01_EPA_Informatik.pdf) · Bezug zur Lektion: Teil I §1.1–1.3, S. 4–9; §2.2.1–2.2.3, S. 10–12; §3–4, S. 12–15 · Zuletzt abgerufen: 2026-11-22 · Inhaltlich geprüft: 2026-11-22
+
+## Ergänzende Lernwege und Vertiefungen {#S5}
+
+Nach M3 und M6 sind M11 und M12 sinnvolle Oberstufenvertiefungen; die Einstufung als Grund- oder erhöhtes Niveau hängt vom Landeslehrplan ab.
+
+### M11 – Verkettete Strukturen und Graphensuche
+
+- [M11-L1 – Einfach verkettete Listen](../M11-L1.md) — Sekundarstufe II (grundlegend); Grundlegendes Niveau
+- [M11-L2 – Geordnete Binärbäume und Traversierung](../M11-L2.md) — Sekundarstufe II (grundlegend); Grundlegendes Niveau
+- [M11-L3 – Tiefensuche und erreichbare Knoten](../M11-L3.md) — Sekundarstufe II (grundlegend); Grundlegendes Niveau
+
+### M12 – Rechnerarithmetik und Registermaschinen
+
+- [M12-L1 – Binäre Addition, Zweierkomplement und Überlauf](../M12-L1.md) — Sekundarstufe II (erhöht); Erhöhtes Niveau
+- [M12-L2 – Registermaschine und Befehlszyklus](../M12-L2.md) — Sekundarstufe II (erhöht); Erhöhtes Niveau
+
